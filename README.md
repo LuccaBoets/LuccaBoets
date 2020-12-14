@@ -5,7 +5,7 @@
 ⭐ Just posting **my random repos** here because I have nothing better to do 
 
 Hobbies
-- 🎮 Gaming (PC master race)
+- 🎮 Gaming
 - 📀 Anime
 - 🖥️ Programming
 
