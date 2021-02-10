@@ -4,11 +4,6 @@
 
 ⭐ Just posting **my random repos** here because I have nothing better to do 
 
-Hobbies
-- 🎮 Gaming
-- 📀 Anime
-- 🖥️ Programming
-
 📃 Things I know
 - Java
 - .NET
