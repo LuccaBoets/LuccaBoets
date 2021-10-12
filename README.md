@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Lucca (18 y.o)
+### I'm Lucca (19 y.o)
 
 ⭐ Just posting **my random repos** here because I have nothing better to do 
 
